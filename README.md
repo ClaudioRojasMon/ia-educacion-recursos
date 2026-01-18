@@ -1,4 +1,4 @@
-![Analitica] (Logo.png)
+![Analitica](Logo.png)
 
 # 🤖 Recursos para Integración de IA Generativa en Educación
 
